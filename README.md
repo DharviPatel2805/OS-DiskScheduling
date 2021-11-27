@@ -1,5 +1,6 @@
 ## Pandit Deendayal Energy University
 # Assignment: Disk Scheduling Algorithm
+## Team 8
 # Team Members: 
   - Dharvi Patel(19BIT028)
   - Brijesh Kavar(19BIT021)
