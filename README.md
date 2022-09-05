@@ -25,4 +25,4 @@
  
 # Link
 Git repo - [Code Link](https://github.com/DharviPatel2805/OS-DiskScheduling)
-You tube link - [Link](https://youtu.be/nY6_JuH0-uE)
+You tube link - [Link](https://youtu.be/UvujXLgZ1sM)
